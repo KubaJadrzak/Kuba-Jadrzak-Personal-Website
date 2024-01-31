@@ -18,7 +18,7 @@ body {
 }
 
 #social-media {
-    max-width: 500px; /* Adjust the width as needed */
+    max-width: 500px;
 }
 
 #social-media h2 {
@@ -33,9 +33,9 @@ body {
 
 .social-link {
     padding: 25px;
-    display: flex; /* Make the list items flex containers */
-    align-items: center; /* Align items vertically */
-    transition: background-color 0.3s ease; /* Add smooth transition effect */
+    display: flex;
+    align-items: center;
+    transition: background-color 0.3s ease;
 }
 
 .social-link:hover {
@@ -50,7 +50,7 @@ body {
 }
 
 .social-link a .smile-icon {
-    width: 40px; /* Adjust the size of the second image as needed */
+    width: 40px;
 }
 
 .social-link img {
@@ -61,7 +61,7 @@ body {
 
 
 #projects {
-    max-width: 300px; /* Adjust the width as needed */
+    max-width: 300px;
 }
 
 #projects h2 {
