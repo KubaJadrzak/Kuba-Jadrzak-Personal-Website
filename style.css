@@ -17,16 +17,16 @@ body {
     height: auto;
 }
 
-#social-media {
+.social-media {
     max-width: 500px;
 }
 
-#social-media h2 {
+.social-media h2 {
     padding: 20px;
     color: #333;
 }
 
-#social-media ul {
+.social-media ul {
     list-style: none;
     padding: 0;
 }
