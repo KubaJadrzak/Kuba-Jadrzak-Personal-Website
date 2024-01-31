@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 100px;
+    margin: 120px;
     background-color: antiquewhite;
     font-size: 18px;
 }
@@ -58,13 +58,4 @@ body {
 .social-link img {
     width: 40px;
     margin-right: 20px;
-}
-
-#projects {
-    width: 400px;
-}
-
-#projects h2 {
-    padding: 25px;
-    color: #333;
 }
