@@ -1,9 +1,8 @@
 body {
     font-family: 'Arial', sans-serif;
-    margin: 0;
-    padding-top: 100px;
+    margin: 100px;
     background-color: antiquewhite;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 #content {
@@ -21,12 +20,12 @@ body {
 
 #profile-picture img {
     margin-top: 40px;
-    width: 464px;
+    width: 450px;
     height: auto;
 }
 
 .social-media {
-    width: 464px;
+    width: 450px;
 }
 
 .social-media h2 {
@@ -56,17 +55,10 @@ body {
     display: flex;
     align-items: center;
 }
-
-.social-link a .smile-icon {
-    width: 40px;
-}
-
 .social-link img {
-    width: 50px;
+    width: 40px;
     margin-right: 20px;
 }
-
-
 
 #projects {
     width: 400px;
